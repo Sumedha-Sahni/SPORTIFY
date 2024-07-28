@@ -1,5 +1,5 @@
 # SPORTIFY
-~Sports Future Populairty Prediction~
+*Sports Future Populairty Prediction*
 📈 Time series forecasting for sports event popularity.
 
 Key Features:
