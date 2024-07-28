@@ -6,11 +6,9 @@
 
 Key Features:
 
-Time series analysis using statistical methods.
-
-Predictive modeling for forecasting.
-
-Interactive visualizations.
+-Time series analysis using statistical methods.
+-Predictive modeling for forecasting.
+-Interactive visualizations.
 
 
 Usage:
